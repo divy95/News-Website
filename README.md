@@ -1,2 +1,2 @@
-# News-Website
-This is a modern news website made using HTML CSS And JavaScript
+This is a modern news website made using HTML CSS And JavaScript And in future scope of this website is that i will use react to make it more fast and handy to use 
+one one of my dream is to give some access to news reader that they can also upload their news and can earn money 

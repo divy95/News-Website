@@ -1,4 +1,4 @@
- @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;&family=Roboto:wght@500;&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Roboto:wght@500&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -70,3 +70,32 @@ nav{
 .hover-link:active{
     color: red;
 }
+.searh-bar{
+    height: 32px;
+    gap: 8px;
+}
+.news-input{
+    width: 200px;
+    height: 100%;
+    padding-inline:12px;
+    border-radius: 4px;
+    border: 2px solid #bbd0e2;
+    font-family: "Roboto",sans-serif;
+}
+.search-button{
+    background-color: var(--accent-color);
+    color: white;
+    padding:8px 24px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: "Roboto",sans-serif;
+}
+.search-button:hover{
+    background-color: var(--accent-color-dark);
+}
+.logo{
+     background-color: red;
+     padding: 8px 24px;
+     color: white;
+    }
